@@ -14,4 +14,4 @@ This repository includes three front-end templates recreated using HTML and CSS.
 
 1. **Leon**
 2. **Kasper**
-3. **Elzero**
+3. **Elzero Web School**
